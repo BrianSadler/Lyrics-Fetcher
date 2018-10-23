@@ -1,0 +1,6 @@
+framework module Pods_Lyrics_Fetcher {
+  umbrella header "Pods-Lyrics Fetcher-umbrella.h"
+
+  export *
+  module * { export * }
+}
